@@ -6,8 +6,8 @@ import 'package:robot/event/event_robot_respone.dart';
 
 class RobotUtil {
   var url = "https://api.ai.qq.com/fcgi-bin/nlp/nlp_textchat";
-  var app_id = "2113361363";
-  var app_key = "KUh2XEXWZTHw9nng";
+  var app_id = "";
+  var app_key = "";
 
 
   getText(question) {
